@@ -1,0 +1,11 @@
+ body{
+    background-color: lightblue;
+}
+
+#set{
+    color:rgb(120, 27, 197);
+}
+#home{
+    background-color: rgb(109, 108, 108);
+    color: white;
+}
